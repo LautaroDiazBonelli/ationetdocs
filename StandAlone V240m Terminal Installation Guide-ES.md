@@ -226,7 +226,7 @@ Los parámetros para configurar en esta sección son los siguientes:
 
 **Native URL:** *Dirección de ATIONet ambiente Beta o Producción* (```native.ationet.com``` para Producción / ```native-beta.ationet.com``` para Beta)
 
-**Maintenance URL:** *Dirección de ATIONet ambiente Beta o Producción* (```native.ationet.com``` para Producción / ```native-beta.ationet.com``` para Beta)
+**Maintenance URL:** *Dirección de ATIONet ambiente Beta o Producción* (```terminalsmanagementapi.ationet.com/``` para Producción / ```terminalsmanagementapi-beta.ationet.com/``` para Beta)
 
 **User name:** *Usuario de fidelidad configurado en ATIONet*
 
